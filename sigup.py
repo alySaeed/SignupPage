@@ -20,7 +20,7 @@ background_image = """
 """
 
 st.markdown(background_image, unsafe_allow_html=True)
-for i in range(8):
+for i in range(4):
     st.markdown('##')
 
 st.markdown('<h1 style="font-family: serif; color:black; font-size: 20px;">Sign up to be the first to know about our soft launch events. 📩</h1>', unsafe_allow_html=True)
